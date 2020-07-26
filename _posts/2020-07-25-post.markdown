@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+# Tile
+
+New blog post
+
+## This is so fast
+
+[Link to google](https://google.com)
